@@ -7,10 +7,8 @@ public class sample1 {
         int anotherAge = age;
         String anotherName = name;
 
-        System.out.println(age);
-        System.out.println(anotherAge);
+        System.out.println("Hi");
+        System.out.println("Hello");
 
-        System.out.println(name);
-        System.out.println(anotherName);
     }
 }

@@ -11,7 +11,7 @@ class employee{
     {
         employee e1 = new employee(123,"prasanna");
                 System.out.println("employee name is " +e1.employeename);
-        employee e2 = new employee(1234,"kumar");
-
+        employee e3 = new employee(1234,"kumar");
+        System.out.println("employee name is " +e3.employeename);
     }
 }
